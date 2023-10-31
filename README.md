@@ -1,1 +1,2 @@
-
+# Installation
+sh install.sh
